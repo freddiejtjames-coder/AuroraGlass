@@ -13,6 +13,7 @@ Aurora Glass reimagines Spotify with soft frosted glass, subtle aurora gradients
 - 💙 Aurora blue → purple accents
 - 🪟 Rounded cards and controls
 - 🌙 Beautiful dark appearance
+- ⚡ Beautiful visuals without unnecessary GPU overhead
 
 ---
 
